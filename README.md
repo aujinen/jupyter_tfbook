@@ -1,4 +1,4 @@
-# jupyter_tfbook
+# jupyter_tfbook modified for Python 3.6
 
 changed source code from Python 2 to 3
 Finished from Chap. 1 to 3.

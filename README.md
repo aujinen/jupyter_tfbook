@@ -1,7 +1,5 @@
 # jupyter_tfbook
 
-changed source code from Python 2 to 3
-
 original site:
 https://github.com/enakai00/jupyter_tfbook
 

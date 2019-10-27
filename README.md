@@ -1,5 +1,7 @@
 # jupyter_tfbook
 
+Please access Branch of Python36
+
 original site:
 https://github.com/enakai00/jupyter_tfbook
 

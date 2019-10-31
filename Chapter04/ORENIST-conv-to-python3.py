@@ -1,6 +1,5 @@
 ###
-# Execute with Python 2.7
-# with numpy
+# Execute with Python 2.7 with numpy
 # Convert "ORENIST.data" of Python 2.7 to "ORENIST3p2b.data" of Python 3.6 binary data
 # Since conversion depends on the environment, trial and error are likely to be required.
 # The following program is a successful conversion process on windows10.

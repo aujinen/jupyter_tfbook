@@ -3,7 +3,7 @@
 Please access Branch of Python36<BR>
 https://github.com/aujinen/jupyter_tfbook/tree/python36
 
-Upper branch changed from Python2.7 original to Python3.6
+Upper branch changed from original Python2.7 to Python3.6
 
 This page contents are as same as following original site
 
